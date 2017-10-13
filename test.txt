@@ -1,7 +1,4 @@
-here
-is
-some
-text
+here is some text
 and a whole sentence
 
 Richard Of York Gave Battle In Vain
